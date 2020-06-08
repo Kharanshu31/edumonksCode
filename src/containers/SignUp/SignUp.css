@@ -1,0 +1,43 @@
+.studying {
+  background-image: url("../../assets/study.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding:160px;
+  margin: 0 550px 0 150px;
+}
+
+.signupbox {
+  position: relative;
+  left:120%;
+  top:20%;
+  background-color: #8A2BE2;
+  width: 90%;
+}
+
+.signupheading {
+  color: white;
+  font-size: 1.4rem;
+  margin: 40px 100px 15px 130px;
+  padding-top: 20px;
+}
+
+.signupinputname {
+  color: white;
+  margin-left: 30px;
+}
+
+.signupinputbox {
+  margin-left: 30px;
+  padding-right: 70px;
+}
+
+.signupbtn {
+  margin: 30px 0 10px 130px;
+  padding: 10px;
+  background-color: #8A2BE2;
+  border: 0.5px solid white;
+}
+
+.btnwritten {
+  color: white
+}

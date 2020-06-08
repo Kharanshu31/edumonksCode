@@ -1,0 +1,27 @@
+.navbarbody {
+  display: flex;
+  background-color: white;
+  /* margin-bottom: -20px; */
+  /* width: 40%; */
+  height: 1%;
+}
+
+.navbarheading {
+  margin-left: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  opacity: 0.5;
+}
+
+.navbarbtndiv {
+  margin-left: 70%;
+  /* margin-bottom: -10px; */
+  /* width: 30%; */
+  /* height: 30%; */
+}
+
+.navbarbtn {
+  position: relative;
+  top:30px;
+  padding: 6px 10px 6px 10px;
+}

@@ -1,0 +1,20 @@
+.sidebar {
+  background: grey;
+  width: 20%;
+  padding-bottom: 30%;
+}
+
+.navlinklogin {
+  color: white;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  /* margin: 140px 80px 130px 20px; */
+  margin-top: 300px;
+  padding: 30px;
+  line-height: 2rem;
+}
+
+.navlinknav {
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
