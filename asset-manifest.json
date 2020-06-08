@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/edumonk/static/css/main.5ecc05f2.chunk.css",
+    "main.js": "/edumonk/static/js/main.73b3566a.chunk.js",
+    "main.js.map": "/edumonk/static/js/main.73b3566a.chunk.js.map",
+    "runtime-main.js": "/edumonk/static/js/runtime-main.30080eaf.js",
+    "runtime-main.js.map": "/edumonk/static/js/runtime-main.30080eaf.js.map",
+    "static/js/2.ef81d55a.chunk.js": "/edumonk/static/js/2.ef81d55a.chunk.js",
+    "static/js/2.ef81d55a.chunk.js.map": "/edumonk/static/js/2.ef81d55a.chunk.js.map",
+    "index.html": "/edumonk/index.html",
+    "precache-manifest.f6332016c3479ac1cf0ffc4d9576b43c.js": "/edumonk/precache-manifest.f6332016c3479ac1cf0ffc4d9576b43c.js",
+    "service-worker.js": "/edumonk/service-worker.js",
+    "static/css/main.5ecc05f2.chunk.css.map": "/edumonk/static/css/main.5ecc05f2.chunk.css.map",
+    "static/js/2.ef81d55a.chunk.js.LICENSE.txt": "/edumonk/static/js/2.ef81d55a.chunk.js.LICENSE.txt",
+    "static/media/Homepage.css": "/edumonk/static/media/main.fd8fbaff.jpg",
+    "static/media/SignUp.css": "/edumonk/static/media/study.67fad8a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30080eaf.js",
+    "static/js/2.ef81d55a.chunk.js",
+    "static/css/main.5ecc05f2.chunk.css",
+    "static/js/main.73b3566a.chunk.js"
+  ]
+}
